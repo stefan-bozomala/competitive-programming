@@ -16,8 +16,8 @@
 * **Team Name:** **The Automatists**
 * **Team Members:**
   * **Ștefan Bozomală** ([@StefBozo](https://codeforces.com))
-  * **Silviu** ([@Silviu14](https://codeforces.com))
-  * **Andrei** ([@4ndr31](https://codeforces.com))
+  * **Silviu Gâță** ([@Silviu14](https://codeforces.com))
+  * **Andrei Fer** ([@4ndr31](https://codeforces.com))
 * **Host Platform:** [Codeforces Gym](https://codeforces.com)
 * **Official Contest Result:** **31st Place** globally, achieving **45,215 points** in the final competitive round.
 
