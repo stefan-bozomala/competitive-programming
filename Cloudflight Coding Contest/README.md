@@ -12,7 +12,7 @@ Solutions, data pipelines, and machine learning models developed for the **41st 
 
 ## Participant & Event Info
 
-- **Participant:** **Ștefan Bozomală** **Teammates:** **Bianca Anechitei, Sebastian Pereni**
+- **Participant:** Ștefan Bozomală | **Teammates:** Bianca Anechitei, Sebastian Pereni
 - **University:** Technical University of Cluj-Napoca (UTCN), Romania
 - **Event:** 41st Cloudflight Coding Contest (Data & AI Track)
 - **Date:** November 14, 2025
