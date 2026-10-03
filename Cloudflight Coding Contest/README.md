@@ -12,10 +12,8 @@ Solutions, data pipelines, and machine learning models developed for the **41st 
 
 ## Participant & Event Info
 
-- **Participant:** **Ștefan Bozomala**
+- **Participant:** **Ștefan Bozomală**
 - **University:** Technical University of Cluj-Napoca (UTCN), Romania
-- **GitHub:** [@BozomalaStefan-30126](https://github.com/BozomalaStefan-30126)
-- **Email:** `Bozomala.So.Stefan@student.utcluj.ro`
 - **Event:** 41st Cloudflight Coding Contest (Data & AI Track)
 - **Date:** November 14, 2025
 - **Location:** CREIC – Regional Centre of Excellence for Creative Industries, Cluj-Napoca, Romania
