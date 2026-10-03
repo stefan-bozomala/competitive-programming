@@ -12,10 +12,8 @@
 
 ## Author & Academic Affiliation
 
-- **Author / Researcher:** **Ștefan Bozomala**
+- **Contestant:** **Ștefan Bozomala**
 - **Academic Affiliation:** Technical University of Cluj-Napoca (UTCN), Romania
-- **GitHub:** [@BozomalaStefan-30126](https://github.com/BozomalaStefan-30126)
-- **Institutional Email:** `Bozomala.So.Stefan@student.utcluj.ro`
 - **Competition Event:** 41st Cloudflight Coding Contest (Data & AI Track)
 - **Date:** November 14, 2025
 - **Official Venue:** CREIC – Regional Centre of Excellence for Creative Industries, Cluj-Napoca, Romania
