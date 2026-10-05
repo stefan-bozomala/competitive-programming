@@ -17,6 +17,7 @@ Solutions developed for the **41st Cloudflight Coding Contest**, Data & AI track
 
 - Teammates:
 Bianca Anechitei · Technical University of Cluj-Napoca
+
 Sebastian Pereni · Technical University of Cluj-Napoca
 ---
 
