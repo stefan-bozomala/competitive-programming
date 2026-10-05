@@ -12,7 +12,7 @@ Solutions developed for the **41st Cloudflight Coding Contest**, Data & AI track
 
 ## Participant
 
-- **Ștefan Bozomala** · Technical University of Cluj-Napoca (UTCN) · 📄 [Participation Certificate](docs/ccc-participation-certificate-41st-data-ai-ccc-2025-5774.pdf)
+- **Ștefan Bozomală** · Technical University of Cluj-Napoca (UTCN) · 📄 [Participation Certificate](docs/ccc-participation-certificate-41st-data-ai-ccc-2025-5774.pdf)
 
 ## Teammates:
 - Bianca Anechitei · Technical University of Cluj-Napoca
