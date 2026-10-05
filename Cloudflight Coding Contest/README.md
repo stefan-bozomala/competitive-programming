@@ -9,7 +9,7 @@ My solutions for the **41st Cloudflight Coding Contest (Data & AI Track)**, held
 
 ## About Me
 
-**Ștefan Bozomala** · UTCN Cluj-Napoca · [GitHub](https://github.com/BozomalaStefan-30126) · `Bozomala.So.Stefan@student.utcluj.ro`
+**Ștefan Bozomala** · UTCN Cluj-Napoca
 
 <!-- Teammates (if any):
 - Name Surname · University · GitHub · email
